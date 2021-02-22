@@ -2,7 +2,7 @@
 
 /**
  * 
- * @author avery
+ * @author Avery Moates
  *
  */
 public class Delivery {
